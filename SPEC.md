@@ -68,8 +68,11 @@ Chaque entité a un identifiant unique (UUID) et une date de création.
 - Pas de classements, de partage social ni de paiement.
 - Pas de génération de questions à la volée.
 
+## Décisions prises
+- Stack : TypeScript, React, Vite, CSS simple, IndexedDB via Dexie, tests avec Vitest.
+- Service de synchronisation : Supabase (à confirmer à l'étape 5).
+- Hébergement : Vercel.
+
 ## Points à décider
-- Stack technique.
-- Service de synchronisation (Supabase, Firebase ou autre).
 - Voix de synthèse pour l'audio (accents à varier).
 - Date visée pour le vrai test, pour dimensionner la banque de questions.

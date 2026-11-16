@@ -23,4 +23,4 @@ La référence est SPEC.md. En cas de doute, la spec fait foi. Ne rien ajouter q
 - Aucune question officielle ETS ne doit être copiée dans le projet.
 
 # Stack
-À confirmer avant de coder (voir « Points à décider » dans SPEC.md).
+TypeScript, React, Vite, CSS simple (modules CSS), IndexedDB via Dexie, Vitest. Hébergement Vercel. Synchronisation prévue avec Supabase (étape 5, à confirmer alors).
