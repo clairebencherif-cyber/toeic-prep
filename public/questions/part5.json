@@ -1,0 +1,482 @@
+[
+  {
+    "id": "9d9ccdd6-0842-4dd8-b48d-2d425a8d2d4f",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The marketing team ___ a new campaign last week.",
+    "choices": [
+      "launched",
+      "launch",
+      "will launch",
+      "is launching"
+    ],
+    "correctAnswer": "A",
+    "explanation": "« last week » (la semaine dernière) indique le passé, donc le prétérit : launched.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "easy"
+  },
+  {
+    "id": "2524c318-d060-45b7-8722-a350d4e64092",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Next month, the company ___ its new headquarters in Lyon.",
+    "choices": [
+      "opened",
+      "has opened",
+      "was opening",
+      "will open"
+    ],
+    "correctAnswer": "D",
+    "explanation": "« Next month » (le mois prochain) indique le futur, donc will open.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "easy"
+  },
+  {
+    "id": "1ad0a345-42ef-4204-97e1-af0ddc053955",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "By the time the clients arrived, the staff ___ the conference room.",
+    "choices": [
+      "prepare",
+      "prepares",
+      "had prepared",
+      "will prepare"
+    ],
+    "correctAnswer": "C",
+    "explanation": "« By the time » + un passé : l'action la plus ancienne se met au plus-que-parfait, had prepared.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "medium"
+  },
+  {
+    "id": "cb0273e4-ec77-4d0d-91a9-b49772cb63cc",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Our sales ___ steadily since the new manager joined the team.",
+    "choices": [
+      "increase",
+      "have increased",
+      "increased",
+      "will increase"
+    ],
+    "correctAnswer": "B",
+    "explanation": "« since » (depuis) avec une action qui continue jusqu'à maintenant demande le présent parfait : have increased.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "medium"
+  },
+  {
+    "id": "46bbcd1e-ef17-4a33-a4ec-09dd185d920b",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "All employees ___ to attend the safety training next Tuesday.",
+    "choices": [
+      "are required",
+      "require",
+      "requiring",
+      "requires"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Les employés ne « requièrent » pas, ils sont requis : forme passive, are required.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "medium"
+  },
+  {
+    "id": "29a51e1f-652b-4d8d-b152-ac39493bc36e",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "If the shipment ___ by noon, we will cancel the order.",
+    "choices": [
+      "will not arrive",
+      "did not arrive",
+      "would not arrive",
+      "does not arrive"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Après « If », on met le présent (pas le futur) quand la phrase principale est au futur : does not arrive.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "hard"
+  },
+  {
+    "id": "8c09f795-527e-4e06-9385-575a95afaa57",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The new software ___ by our technicians since early March.",
+    "choices": [
+      "is tested",
+      "tests",
+      "has been tested",
+      "was testing"
+    ],
+    "correctAnswer": "C",
+    "explanation": "« since early March » demande le présent parfait, et le logiciel est testé par quelqu'un : has been tested.",
+    "part": 5,
+    "type": "verb-tense",
+    "level": "hard"
+  },
+  {
+    "id": "c005dfeb-04cb-45dc-ad7b-9de7c9b4dfa8",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The company is known for its ___ customer service.",
+    "choices": [
+      "excellently",
+      "excellent",
+      "excellence",
+      "excel"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Devant un nom (customer service), on met un adjectif : excellent.",
+    "part": 5,
+    "type": "word-form",
+    "level": "easy"
+  },
+  {
+    "id": "a817738d-ae17-46eb-891c-0d8c7bc3c466",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Mr. Ortiz spoke ___ about the new project at the meeting.",
+    "choices": [
+      "enthusiastically",
+      "enthusiasm",
+      "enthusiastic",
+      "enthusiast"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pour décrire comment il a parlé (le verbe spoke), il faut un adverbe : enthusiastically.",
+    "part": 5,
+    "type": "word-form",
+    "level": "easy"
+  },
+  {
+    "id": "110f34ff-bed1-4598-a8cf-08409378ad7d",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The ___ of the new software will take about two weeks.",
+    "choices": [
+      "install",
+      "installs",
+      "installed",
+      "installation"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Après « The », il faut un nom. Le nom de l'action d'installer est installation.",
+    "part": 5,
+    "type": "word-form",
+    "level": "medium"
+  },
+  {
+    "id": "56f086de-13c7-4add-bea7-8bbd3e08a277",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Applicants must submit a ___ résumé along with the form.",
+    "choices": [
+      "completely",
+      "completion",
+      "complete",
+      "completing"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Devant le nom « résumé », on met un adjectif : complete (complet).",
+    "part": 5,
+    "type": "word-form",
+    "level": "medium"
+  },
+  {
+    "id": "3b1cabd4-69b0-4be3-a559-87908a69e97a",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Ms. Greene is responsible for ___ new employees.",
+    "choices": [
+      "train",
+      "training",
+      "trained",
+      "trains"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Après une préposition (for), le verbe se met à la forme en -ing : training.",
+    "part": 5,
+    "type": "word-form",
+    "level": "medium"
+  },
+  {
+    "id": "18fd6bf2-3fb8-4d6a-a2e1-2155f944f807",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The committee reached a ___ decision after a long discussion.",
+    "choices": [
+      "unanimous",
+      "unanimously",
+      "unanimity",
+      "unanimousness"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Devant le nom « decision », il faut un adjectif : unanimous (à l'unanimité).",
+    "part": 5,
+    "type": "word-form",
+    "level": "hard"
+  },
+  {
+    "id": "01ff3470-a3b1-440a-a80b-a84acbab0410",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Sales representatives are ___ for arranging client visits.",
+    "choices": [
+      "response",
+      "responsibly",
+      "responsibility",
+      "responsible"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Après « are », on attend un adjectif : responsible for (responsable de).",
+    "part": 5,
+    "type": "word-form",
+    "level": "hard"
+  },
+  {
+    "id": "9eabaf62-247a-4d29-82b7-4c5b0e678d7a",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The meeting will begin ___ 9:30 a.m.",
+    "choices": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Avec une heure précise, on utilise « at » : at 9:30 a.m.",
+    "part": 5,
+    "type": "preposition",
+    "level": "easy"
+  },
+  {
+    "id": "e0f9f364-6f3c-4d86-a9ec-1b8b294be227",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Our offices are located ___ Maple Street.",
+    "choices": [
+      "to",
+      "on",
+      "from",
+      "during"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pour une rue, on utilise « on » : on Maple Street.",
+    "part": 5,
+    "type": "preposition",
+    "level": "easy"
+  },
+  {
+    "id": "790ae1c4-440d-4746-8973-ac42805b9dc1",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Please submit your expense report ___ the end of the month.",
+    "choices": [
+      "by",
+      "since",
+      "during",
+      "among"
+    ],
+    "correctAnswer": "A",
+    "explanation": "« by » indique une date limite (au plus tard à la fin du mois).",
+    "part": 5,
+    "type": "preposition",
+    "level": "medium"
+  },
+  {
+    "id": "47aafb8a-5312-476d-873e-f0bb1e8fd841",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The seminar was postponed ___ the bad weather.",
+    "choices": [
+      "because",
+      "although",
+      "despite",
+      "due to"
+    ],
+    "correctAnswer": "D",
+    "explanation": "« due to » (à cause de) est suivi d'un nom. « because » demanderait un verbe, et « despite » dirait le contraire.",
+    "part": 5,
+    "type": "preposition",
+    "level": "medium"
+  },
+  {
+    "id": "26a80ac2-845a-4413-9fa3-21af7a8f6400",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Ms. Alvarez will be out of the office ___ July 3 and July 10.",
+    "choices": [
+      "during",
+      "among",
+      "between",
+      "within"
+    ],
+    "correctAnswer": "C",
+    "explanation": "« between ... and ... » s'utilise pour deux dates ou deux repères.",
+    "part": 5,
+    "type": "preposition",
+    "level": "hard"
+  },
+  {
+    "id": "62edca4d-30f9-4fad-b25c-120742675fd5",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Mr. Chen wanted to leave early, ___ he had to finish the report.",
+    "choices": [
+      "so",
+      "but",
+      "or",
+      "if"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Les deux idées s'opposent (partir tôt / finir le rapport) : but (mais).",
+    "part": 5,
+    "type": "conjunction",
+    "level": "easy"
+  },
+  {
+    "id": "0861690d-0d2c-4762-a5b7-92a8962b59a1",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "___ the budget was limited, the team completed the project successfully.",
+    "choices": [
+      "Although",
+      "Because",
+      "Unless",
+      "So"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Le budget limité et la réussite s'opposent : Although (bien que).",
+    "part": 5,
+    "type": "conjunction",
+    "level": "medium"
+  },
+  {
+    "id": "428fb459-0857-466b-b8b2-eae46cb722f7",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "You will not receive a refund ___ you have the original receipt.",
+    "choices": [
+      "if",
+      "because",
+      "while",
+      "unless"
+    ],
+    "correctAnswer": "D",
+    "explanation": "« unless » signifie « sauf si » : pas de remboursement, sauf si tu as le reçu.",
+    "part": 5,
+    "type": "conjunction",
+    "level": "medium"
+  },
+  {
+    "id": "98b47377-788f-4367-8326-506f8d3c2f00",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Neither the director ___ the assistant was available for comment.",
+    "choices": [
+      "or",
+      "and",
+      "nor",
+      "but"
+    ],
+    "correctAnswer": "C",
+    "explanation": "« Neither » va toujours avec « nor » : Neither ... nor ...",
+    "part": 5,
+    "type": "conjunction",
+    "level": "hard"
+  },
+  {
+    "id": "94909985-cd52-4fd2-b34e-566ecfbbd795",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "All visitors must ___ at the front desk before entering the building.",
+    "choices": [
+      "regard",
+      "register",
+      "respond",
+      "repair"
+    ],
+    "correctAnswer": "B",
+    "explanation": "On s'enregistre à l'accueil : register. Les autres mots ressemblent à register mais n'ont pas ce sens.",
+    "part": 5,
+    "type": "vocabulary",
+    "level": "easy"
+  },
+  {
+    "id": "d0652eac-e859-4a8d-9e70-81d6ae811963",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The company plans to ___ its product line next spring.",
+    "choices": [
+      "expand",
+      "expend",
+      "expose",
+      "expire"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Agrandir une gamme de produits : expand. « expend » (dépenser) et « expire » (expirer) ne conviennent pas.",
+    "part": 5,
+    "type": "vocabulary",
+    "level": "medium"
+  },
+  {
+    "id": "7efbc7a9-6bfa-48ab-ab65-4d92e0b836a0",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Customers can ___ their orders online until midnight.",
+    "choices": [
+      "contain",
+      "consist",
+      "remain",
+      "cancel"
+    ],
+    "correctAnswer": "D",
+    "explanation": "On peut annuler une commande : cancel.",
+    "part": 5,
+    "type": "vocabulary",
+    "level": "medium"
+  },
+  {
+    "id": "223dc7cd-53fd-4e22-b2b4-a6dd51a2f88c",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The ___ for the sales position must have at least three years of experience.",
+    "choices": [
+      "customer",
+      "occupant",
+      "candidate",
+      "supplier"
+    ],
+    "correctAnswer": "C",
+    "explanation": "La personne qui postule à un poste est un candidate (candidat).",
+    "part": 5,
+    "type": "vocabulary",
+    "level": "medium"
+  },
+  {
+    "id": "b684f030-2755-4fb8-a05e-4d2a1f25ead3",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "The new policy will take ___ on January 1.",
+    "choices": [
+      "effort",
+      "effect",
+      "affect",
+      "affair"
+    ],
+    "correctAnswer": "B",
+    "explanation": "L'expression est « take effect » (entrer en vigueur). « affect » est un verbe, pas un nom.",
+    "part": 5,
+    "type": "vocabulary",
+    "level": "hard"
+  },
+  {
+    "id": "2cb4038a-0799-43da-a0ae-4ab073a7d412",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Ms. Silva asked the assistant to send ___ the schedule.",
+    "choices": [
+      "her",
+      "she",
+      "hers",
+      "herself"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Après « send », on met le complément : her (lui envoyer). « she » est un sujet.",
+    "part": 5,
+    "type": "pronoun",
+    "level": "easy"
+  },
+  {
+    "id": "7ec8ca5a-9217-4f5b-b5c4-88b820a002f8",
+    "createdAt": "2026-11-16T12:05:26.492Z",
+    "text": "Mr. Kim prepared the presentation ___ without any help.",
+    "choices": [
+      "he",
+      "him",
+      "his",
+      "himself"
+    ],
+    "correctAnswer": "D",
+    "explanation": "« himself » insiste sur le fait qu'il l'a fait seul : un pronom réfléchi.",
+    "part": 5,
+    "type": "pronoun",
+    "level": "medium"
+  }
+]
